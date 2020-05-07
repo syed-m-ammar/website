@@ -1,0 +1,74 @@
+.container{
+    border: 10PX SOLID grey;
+    padding: 10px;
+    margin: 10px;
+   display: flex;
+
+
+}
+.SECTIONB{
+    background-color: rgb(219, 226, 233);
+    -moz-box-shadow: 0 0 10px #777777;
+    -webkit-box-shadow: 0 0 10px #777777;
+    box-shadow: 0 0 10px #777777;
+    height: 80px;
+    width: 1800px;
+    padding: 10px;
+    margin: 10px;
+    justify-content: flex-start;
+   
+}
+.sectionc{
+    border: 10px solid grey; 
+    padding: 10px;
+    margin: 10px;
+
+
+   
+}
+.one,.two,.three,.four {
+   
+    width: 300px;
+    text-align: center;
+    color: white;
+
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #3561b9;
+}
+
+
+<div class="box">
+        <div>
+            <img src="" alt="">
+    </div>
+
+#wrapper > div > section.divider.parallax.layer-overlay.overlay-theme-colored-8 > div > div > div:nth-child(2) > div > img
+
+
+
+body {
+    width: 90%;
+    margin: 0 auto;}
+    #content {overflow: auto;}
+    #nav, #feature, #footer {
+    margin: 1%;}
+    .column1, .column2, .column3 {
+    width: 31.3%;
+    float: left;
+    margin: 1%;}
+    .column3 {margin-right: 0%;}
+    li {
+    display: inline;
+    padding: 0.5em;}
+    #nav, #footer {
+    background-color: #efefef;
+    padding: 0.5em 0;}
+    #feature, .article {
+    height: 10em;
+    margin-bottom: 1em;
+    background-color: #efefef;}
+    

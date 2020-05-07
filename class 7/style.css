@@ -1,0 +1,22 @@
+li{
+    display: inline;
+    background-color: rgb(69, 69, 218);
+    margin: 10px;
+    padding: 10px;
+    
+    
+}
+
+h1{
+    text-align: center;
+    color: brown;
+    text-shadow: 2px 2px 10px black;
+    text-decoration: underline black;
+
+}
+
+div{
+    border: 2px solid black;
+    box-shadow: 2px 2px 10px black;
+    border-radius: 5px;
+}

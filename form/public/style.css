@@ -1,0 +1,48 @@
+h1{
+    color: blueviolet;
+    
+ 
+}
+.sci
+{
+    color: white;
+   
+}
+.backgroungtheme {
+ color: blue;   
+}
+
+.backgroudcolorformation{
+    color: blueviolet;
+}
+
+ .bio{
+    padding: 10;
+    margin: 10;
+    background: rgb(97, 37, 194);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+    
+.section {
+    border: black;
+    height: 90px;
+
+  
+}
+
+ {
+    border: black;
+    max-width: 700px;
+    margin: auto;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.sci {
+    text-indent: 35%;
+}

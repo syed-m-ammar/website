@@ -1,0 +1,64 @@
+p:first-letter {
+    font-size: 100px;
+  
+}
+
+
+a.format:link{
+    color: brown;
+    text-decoration: none;
+}
+
+a.format:visited{
+    color: rgb(190, 42, 16);
+}
+
+input:hover{
+    background-color: darkblue;
+}
+
+input:focus{
+    background-color: black; 
+}
+button:active{
+   background-color: brown;
+}
+
+p[class]{
+    color: red;
+}
+
+.man{
+    height: 100px;
+     width: 200px;
+     border: 20px dashed red;
+     padding: 20px;
+     margin: 10px auto 10px auto;
+    overflow: scroll;
+    
+    
+}
+
+
+
+body {
+    width: 90%;
+    margin: 0 auto;}
+    #content {overflow: auto;}
+    #nav, #feature, #footer {
+    margin: 1%;}
+    .column1, .column2, .column3 {
+    width: 31.3%;
+    float: left;
+    margin: 1%;}
+    .column3 {margin-right: 0%;}
+    li {
+    display: inline;
+    padding: 0.5em;}
+    #nav, #footer {
+    background-color: #efefef;
+    padding: 0.5em 0;}
+    #feature, .article {
+    height: 10em;
+    margin-bottom: 1em;
+    background-color: #efefef;}

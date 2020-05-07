@@ -1,0 +1,28 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    width: 600px;
+    margin: 10px auto;
+    border-collapse: collapse;
+    empty-cells: hide;
+}
+
+tr.even{
+    background-color: lightskyblue;
+}
+tr:hover{
+    background-color: gray;
+}
+th,td{
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+
+form{
+    padding: 10px;
+    margin: 10px;
+    width: 500px;
+}

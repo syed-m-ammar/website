@@ -1,0 +1,17 @@
+ body {margin: 0em;
+padding: 0%;}
+ 
+ td {
+    width: svw;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+.noborder { border: none;}
+.headingone
+ {background-color: yellow;
+    padding: 10px;
+    font-size: 30px;
+    
+}
+
